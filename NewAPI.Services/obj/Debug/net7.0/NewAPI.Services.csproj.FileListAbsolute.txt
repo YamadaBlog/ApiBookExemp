@@ -1,0 +1,15 @@
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\bin\Debug\net7.0\NewAPI.Services.deps.json
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\bin\Debug\net7.0\NewAPI.Services.dll
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\bin\Debug\net7.0\NewAPI.Services.pdb
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\NewAPI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\NewAPI.Services.AssemblyInfoInputs.cache
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\NewAPI.Services.AssemblyInfo.cs
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\NewAPI.Services.csproj.CoreCompileInputs.cache
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\NewAPI.Services.dll
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\refint\NewAPI.Services.dll
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\NewAPI.Services.pdb
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\ref\NewAPI.Services.dll
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\bin\Debug\net7.0\NewAPI.Common.dll
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\bin\Debug\net7.0\NewAPI.Common.pdb
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\NewAPI.Services.csproj.AssemblyReference.cache
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Services\obj\Debug\net7.0\NewAPI.Services.csproj.CopyComplete

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "NewAPI.Services/1.0.0": {
+        "dependencies": {
+          "NewAPI.Common": "1.0.0"
+        },
+        "runtime": {
+          "NewAPI.Services.dll": {}
+        }
+      },
+      "NewAPI.Common/1.0.0": {
+        "runtime": {
+          "NewAPI.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewAPI.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewAPI.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

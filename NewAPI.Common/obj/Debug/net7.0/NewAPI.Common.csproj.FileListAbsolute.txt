@@ -1,0 +1,11 @@
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\bin\Debug\net7.0\NewAPI.Common.deps.json
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\bin\Debug\net7.0\NewAPI.Common.dll
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\bin\Debug\net7.0\NewAPI.Common.pdb
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\obj\Debug\net7.0\NewAPI.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\obj\Debug\net7.0\NewAPI.Common.AssemblyInfoInputs.cache
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\obj\Debug\net7.0\NewAPI.Common.AssemblyInfo.cs
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\obj\Debug\net7.0\NewAPI.Common.csproj.CoreCompileInputs.cache
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\obj\Debug\net7.0\NewAPI.Common.dll
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\obj\Debug\net7.0\refint\NewAPI.Common.dll
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\obj\Debug\net7.0\NewAPI.Common.pdb
+C:\Users\Fanny.alfonso\source\repos\NewAPI\NewAPI.Common\obj\Debug\net7.0\ref\NewAPI.Common.dll
